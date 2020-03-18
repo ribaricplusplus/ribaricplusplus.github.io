@@ -10,7 +10,9 @@
     "webpack-cli": "^3.3.11"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "compile-sass": "sass src/sass:dist",
+    "build-all": "yarn compile-sass && yarn build"
   },
   "dependencies": {
     "core-js": "3.6.4",
