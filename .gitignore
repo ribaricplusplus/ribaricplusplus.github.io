@@ -1,8 +1,8 @@
+!.yarn/releases
+!.yarn/plugins
 .yarn
 node_modules
 .vscode
-!.yarn/releases
-!.yarn/plugins
 .pnp.js
 .yarnrc.yml
 dist
