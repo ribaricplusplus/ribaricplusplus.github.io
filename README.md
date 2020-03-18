@@ -1,3 +1,8 @@
+# Deploy flow
+
+Build everything and push the source branch.
+Checkout master branch, push it.
+
 # Styling
 
 Styling is done with Sass.
