@@ -1,6 +1,6 @@
+.yarn/*
 !.yarn/releases
 !.yarn/plugins
-.yarn
 node_modules
 .vscode
 .pnp.js
